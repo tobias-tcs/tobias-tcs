@@ -1,6 +1,6 @@
 <h3 title="hello"> Hello 👋, I'm Tobias</h3>
 
-**When the time comes, don't hesitate, just act**.
+**"When the time comes, don't hesitate, just act"**.
 
 **About Me**
 
